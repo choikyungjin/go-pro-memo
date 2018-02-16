@@ -1,0 +1,29 @@
+﻿  GoProMemo.cpp
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\set_header.h(12): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(119): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(128): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(268): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(290): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(309): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(398): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(439): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(442): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(445): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(448): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(451): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(486): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(496): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(503): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(512): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(527): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(545): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(550): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(640): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(673): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(706): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(713): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(739): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(745): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimkichan\documents\visual studio 2015\projects\gopromemo\gopromemo\gopromemo.cpp(766): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GoProMemo.vcxproj -> C:\Users\KIMKICHAN\Documents\Visual Studio 2015\Projects\GoProMemo\Debug\GoProMemo.exe
+  GoProMemo.vcxproj -> C:\Users\KIMKICHAN\Documents\Visual Studio 2015\Projects\GoProMemo\Debug\GoProMemo.pdb (Partial PDB)
