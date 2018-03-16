@@ -6,7 +6,7 @@
 #include "set_header.h"
 #include <ctime>
 using namespace std;
-
+//
 void show_Display() {
 	system("mode con lines=22 cols=111");
 	system("cls");
